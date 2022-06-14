@@ -1,2 +1,2 @@
-# .github
-XB15-Profile
+# XB15
+Organisation homepage
